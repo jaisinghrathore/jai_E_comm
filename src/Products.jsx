@@ -131,8 +131,8 @@ const clicky=(value)=>{
       <MenuOpenIcon onClick={clickyu} style={{position:"absolute",right:"40px",top:"6px",borderRadius:"10px",zIndex:"99",fontSize:"36px"}}/>
 
         <div style={{position:"absolute",right:"46px",top:"40px",width:"160px",height:"170px",backgroundColor:"grey",borderRadius:"10px",cursor:"pointer",padding:"10px",boxShadow:"2px 2px 4px 2px rgba(1,1,1,0.6)",display:initHide?"block":"none"}}>
-        <p className="boxx" style={{textAlign:"center"}} onClick={()=>clicky("NewerFirst")} >Newer First</p>
-        <p className="boxx" style={{textAlign:"center"}} onClick={()=>clicky("OlderFirst")}  >Older First</p>
+        <p className="boxx" style={{textAlign:"center"}} onClick={()=>clicky("NewerFirst")} >Newer_First</p>
+        <p className="boxx" style={{textAlign:"center"}} onClick={()=>clicky("OlderFirst")}  >Older_First</p>
         <p className="boxx" style={{textAlign:"center"}} onClick={()=>clicky("LowHigh")}  >Low to High</p>
         <p className="boxx" style={{textAlign:"center",marginBottom:"6px"}}  onClick={()=>clicky("HighLow")} >High to Low</p>  
 
