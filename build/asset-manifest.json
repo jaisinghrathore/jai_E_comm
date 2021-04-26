@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jai_E_comm/static/css/main.3b8125b4.chunk.css",
-    "main.js": "/jai_E_comm/static/js/main.5758a5ef.chunk.js",
-    "main.js.map": "/jai_E_comm/static/js/main.5758a5ef.chunk.js.map",
+    "main.js": "/jai_E_comm/static/js/main.8de988fb.chunk.js",
+    "main.js.map": "/jai_E_comm/static/js/main.8de988fb.chunk.js.map",
     "runtime-main.js": "/jai_E_comm/static/js/runtime-main.c96e0da1.js",
     "runtime-main.js.map": "/jai_E_comm/static/js/runtime-main.c96e0da1.js.map",
     "static/js/2.ace14ddb.chunk.js": "/jai_E_comm/static/js/2.ace14ddb.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c96e0da1.js",
     "static/js/2.ace14ddb.chunk.js",
     "static/css/main.3b8125b4.chunk.css",
-    "static/js/main.5758a5ef.chunk.js"
+    "static/js/main.8de988fb.chunk.js"
   ]
 }
